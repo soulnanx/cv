@@ -1,0 +1,33 @@
+body {
+    background-color: #EFF5F5;
+    font-family: 'Rubik', sans-serif;
+    padding:  0 20% 0 20%;
+    color: #497174;
+
+}
+
+hr {
+    border-color: #D6E4E5;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+h3, h1 {
+    color: #EB6440;
+}
+
+.field-input {
+    margin: 15px;
+}
+
+li {
+   padding: 5px; 
+}
+
+.page-footer {
+    height: 100px;
+}
